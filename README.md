@@ -30,9 +30,9 @@ Aider à prendre soin des plantes en pot, même quand on est absent ou qu'on oub
 - V1 : arrosage automatique avec seuils réglés à la main
 - V2 : application mobile avec alertes
 - V3 : base de données de plantes avec seuils par espèce
-- V4 : identification de la plante par photo
-- V5 : diagnostic des problèmes de la plante avec l'IA
-- V6 : ajout d'une camera qui détecte les problèmes de la plante
-
+- V4 : ajout d'une caméra et identification de la plante par photo
+- V5 : détection des problèmes de la plante (maladies, manque d'eau, feuilles abîmées) avec l'IA
+- V6 : réglage automatique des seuils et conseils personnalisés selon la plante
+  
 ## Auteure
 Maroua Alilou, étudiante en ingénierie des systèmes d'information
